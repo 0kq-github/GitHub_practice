@@ -1,4 +1,4 @@
 # GitHub_practice
 練習用
 
-test
+test2
